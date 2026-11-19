@@ -1,0 +1,8 @@
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\ProjetoCrudAPI.csproj.AssemblyReference.cache
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\ProjetoCrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\ProjetoCrudAPI.AssemblyInfoInputs.cache
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\ProjetoCrudAPI.AssemblyInfo.cs
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\ProjetoCrudAPI.csproj.CoreCompileInputs.cache
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\ProjetoCrudAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\ProjetoCrudAPI\obj\Debug\net10.0\ProjetoCrudAPI.MvcApplicationPartsAssemblyInfo.cache
