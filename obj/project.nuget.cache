@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3h6LMyA/Mf0=",
+  "dgSpecHash": "+o1Rcpw4WpI=",
   "success": true,
-  "projectFilePath": "D:\\2DS\\ProjetoCrudAPI\\ProjetoCrudAPI.csproj",
+  "projectFilePath": "D:\\2DS\\DS\\ProjetoCrudAPI\\ProjetoCrudAPI.csproj",
   "expectedPackageFiles": [
     "D:\\NugetPackages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "D:\\NugetPackages\\microsoft.entityframeworkcore\\8.0.11\\microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
+    "D:\\NugetPackages\\microsoft.entityframeworkcore.abstractions\\8.0.11\\microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",
+    "D:\\NugetPackages\\microsoft.entityframeworkcore.analyzers\\8.0.11\\microsoft.entityframeworkcore.analyzers.8.0.11.nupkg.sha512",
+    "D:\\NugetPackages\\microsoft.entityframeworkcore.inmemory\\8.0.11\\microsoft.entityframeworkcore.inmemory.8.0.11.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
   ],
   "logs": []
